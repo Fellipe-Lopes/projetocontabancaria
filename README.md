@@ -1,4 +1,5 @@
 # 💳 Projeto de Conta Bancária
+# Discente: Luiz Fellipe Lobo Lopes
 
 Projeto Spring Boot para simulação de uma aplicação bancária com operações de **depósito**, **retirada**, controle de **concorrência**, e testes automatizados com **JMeter**.
 
