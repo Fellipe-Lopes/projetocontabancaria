@@ -1,4 +1,4 @@
-# 💳 Projeto de Conta Bnacária
+# 💳 Projeto de Conta Bancária
 
 Projeto Spring Boot para simulação de uma aplicação bancária com operações de **depósito**, **retirada**, controle de **concorrência**, e testes automatizados com **JMeter**.
 
