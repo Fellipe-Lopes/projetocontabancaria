@@ -51,9 +51,9 @@ Projeto Spring Boot para simulação de uma aplicação bancária com operaçõe
 
 TESTE DE RETIRADA
 
-![Image](https://github.com/user-attachments/assets/f1008e1e-675a-40ee-9fd3-2ba4fbc72668)
+![Image](https://github.com/user-attachments/assets/317897de-7527-4f3f-af3b-45dc2cc70e05)
 
-![Image](https://github.com/user-attachments/assets/c7a74e66-6b84-4858-a490-44c62fdbcd5d)
+![Image](https://github.com/user-attachments/assets/d4ad0974-f98a-41c2-9e8e-e0b468996556)
 
 TESTE DE DEPÓSITO
 
