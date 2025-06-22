@@ -57,9 +57,9 @@ TESTE DE RETIRADA
 
 TESTE DE DEPÓSITO
 
-![Image](https://github.com/user-attachments/assets/3be2f126-00a0-4020-89f9-d0db7d10e414)
+![Image](https://github.com/user-attachments/assets/4e9766a9-03d5-4a54-bb54-35e98e35d17e)
 
-![Image](https://github.com/user-attachments/assets/0890ced9-ec8c-423d-81cb-29cdfe7eb6e0)
+![Image](https://github.com/user-attachments/assets/e22bfa1e-17fd-43a1-92e4-135ee20da463)
 
 
 ## 🖥️ Console do Banco H2
