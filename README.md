@@ -46,7 +46,7 @@ Projeto Spring Boot para simulação de uma aplicação bancária com operaçõe
   - 100 iterações por thread
   - Operações de depósito e retirada simultâneas
 - Resultados exportados para análise de desempenho e possíveis falhas de bloqueio
-- Os arquivos "Deposito.jmx" e "Retirada.jmx" mostram os testes feitos com o JMeter
+- Os arquivos "Deposito.jmx" e "Retirada.jmx" mostram os testes feitos com o JMeter. Eles podem ser encontrados no repositório deste README.
 
 ### Print do resultado de teste com o JMeter
 
