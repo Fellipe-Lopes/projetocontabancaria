@@ -39,7 +39,7 @@ Projeto Spring Boot para simulação de uma aplicação bancária com operaçõe
   - `ContaBancaria` (sem controle de versão)
   - `ContaBancariaVersionada` (com `@Version`)
 
-## ⚙️ Testes com JMeter
+## ⚙️ Testes c/ JMeter
 
 - Configurações:
   - 10 threads
@@ -50,27 +50,27 @@ Projeto Spring Boot para simulação de uma aplicação bancária com operaçõe
 
 ### Print do resultado de teste com o JMeter
 
-TESTE DE RETIRADA
+### TESTE DE RETIRADA
 
 ![Image](https://github.com/user-attachments/assets/317897de-7527-4f3f-af3b-45dc2cc70e05)
 
 ![Image](https://github.com/user-attachments/assets/d4ad0974-f98a-41c2-9e8e-e0b468996556)
 
-TESTE DE DEPÓSITO
+### TESTE DE DEPÓSITO
 
 ![Image](https://github.com/user-attachments/assets/4e9766a9-03d5-4a54-bb54-35e98e35d17e)
 
 ![Image](https://github.com/user-attachments/assets/e22bfa1e-17fd-43a1-92e4-135ee20da463)
 
 
-## 🖥️ Console do Banco H2
+## 🖥️ Banco H2
 
 - Acesso ao H2 console: [http://localhost:8080/h2](http://localhost:8080/h2)
 - Credenciais:
   - **User:** `sa`
   - **Password:** `sa`
 
-## 🧠 Observações Técnicas
+## 🧠 Observações
 
 - O campo `@Version` em `ContaBancariaVersionada` evita perda de dados em ambientes concorrentes
 - Os testes mostram que o controle de concorrência otimista evita inconsistências no saldo
