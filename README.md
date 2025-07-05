@@ -37,15 +37,15 @@ Projeto Spring Boot para simulação de uma aplicação bancária com operaçõe
 CLASSES:
 
 PACOTE CONTA BANCARIA
-ContaBancaria -> Modela uma entidade de conta bancária que pode ser armazenada no banco de dados.
-ContaBancariaAppllication -> classe principal da aplicação
-ContaBancariaController -> Controlador REST da aplicação. Responsável por expor as funcionalidades da conta banacária via API
-ContaBancariaRepository -> É uma interface de um repositorio JPA. Facilita o acesso aos dados da entidade.
-ContaBancariaVersionada -> Classe responsável pelo controle de concorrência otimista da aplicação.
+-ContaBancaria -> Modela uma entidade de conta bancária que pode ser armazenada no banco de dados.
+-ContaBancariaAppllication -> classe principal da aplicação
+-ContaBancariaController -> Controlador REST da aplicação. Responsável por expor as funcionalidades da conta banacária via API
+-ContaBancariaRepository -> É uma interface de um repositorio JPA. Facilita o acesso aos dados da entidade.
+-ContaBancariaVersionada -> Classe responsável pelo controle de concorrência otimista da aplicação.
 
 PACOTE DE TESTES
-ConcorrenciaTest -> Classe responsável por simular um cenário de concorrência, ou seja, multiplas threads acessando e modificando uma mesma instância.
-ContaBancariaAppllicationTests -> Classe para teste básico
+-ConcorrenciaTest -> Classe responsável por simular um cenário de concorrência, ou seja, multiplas threads acessando e modificando uma mesma instância.
+-ContaBancariaAppllicationTests -> Classe para teste básico
 
 ## 🧪 Testes de Concorrência
 
